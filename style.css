@@ -1,0 +1,31 @@
+.portfolio-img {
+  width: 80%;
+  margin: auto;
+  display: block;
+}
+
+.social-icon {
+  width: 50px;
+  margin: auto;
+  display: block;
+}
+
+.jumbo-text{
+  font-family: 'Cinzel', serif;
+  font-weight: 400;
+}
+
+p{
+  font-size: 18px;
+  font-weight: medium;
+}
+
+#background {
+  background-color: #cccccc;
+  padding: 30px;
+}
+
+#social {
+  background-color: #cccccc;
+  padding: 30px;
+}
